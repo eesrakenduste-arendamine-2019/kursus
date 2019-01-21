@@ -1,0 +1,2 @@
+# kursus
+Kursuse kirjeldus.

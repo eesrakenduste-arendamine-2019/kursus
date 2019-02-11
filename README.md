@@ -52,7 +52,7 @@ ssh YourGreenyUsername@greeny.cs.tlu.ee
   git clone https://YOURUSERNAME@github.com/YOURUSERNAME/REPOSITORY.git
 
   nt esimese iseseisva töö puhul:
-  git clone https://jukujuurikas@github.com/jukujuurikas/1.ea-kodutoo.git
+  git clone https://jukujuurikas@github.com/jukujuurikas/1kodutoo.git
   ```
 1. Lisa vajdusel oma nimi ja email repositooriumi omanikuks ([Setting your username](https://help.github.com/articles/setting-your-username-in-git/)). Vajadusel hangi endale privaatne e-post @users.noreply.github.com lõpuga (https://github.com/settings/emails)
   ```

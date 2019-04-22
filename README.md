@@ -1,5 +1,6 @@
 # Eesrakenduste arendamine 2019
 
+Tulemuste tabel: https://docs.google.com/spreadsheets/d/1BtNy_lhdMtYr_dLLurH3oEdYZ0JXJIb5Q7HDHAgxwlE/edit?usp=sharing
 
 * **Õpetaja:** Tauri Kirsipuu, [tauri.kirsipuu@tlu.ee]
 * **Testserver:** lin2.tlu.ee (html, js), greeny.cs.tlu.ee (ssl)
